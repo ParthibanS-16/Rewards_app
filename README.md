@@ -53,7 +53,8 @@ npm test
 
 
 ### 3. Node Version
-```Node v22.15.1 (LTS)
+```bash
+Node v22.15.1 (LTS)
 ```
 ---
 
