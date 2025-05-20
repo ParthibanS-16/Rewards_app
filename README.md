@@ -13,7 +13,7 @@ This React application simulates a rewards program for a retailer. Customers ear
 - View individual transactions per month
 - Pagination support for transactions
 - Mock data simulates API with async fetch
-- Logging using `console.log` and structure inspired by Pino[Parseable Logging]
+- Logging using `logger` and structure inspired by Pino[Parseable Logging]
 - Unit tests for business logic and edge cases
 - Styled with `styled-components`
 
@@ -56,6 +56,12 @@ npm test
 ## 📸 Screenshots
 ### 🧾 Rewards Dashboard
 ![Rewards Screenshot]
+![image](https://github.com/user-attachments/assets/9528fed2-4724-4a7f-9215-ab4616d50e65)
+![image](https://github.com/user-attachments/assets/e3aeba29-10b3-4207-a9ae-31fabc355dae)
+![image](https://github.com/user-attachments/assets/019d6655-532e-4e85-9e3b-3bd78edfa735)
+
+
+
 
 ### ✅ Test Passed
 ![Tests Screenshot]
@@ -65,7 +71,7 @@ npm test
 ---
 
 ## 📌 Tech Stack
-- React JS (no Redux)
+- React JS 
 - Styled Components
 - Jest for Unit Testing
 - Local Mock JSON for API Simulation
