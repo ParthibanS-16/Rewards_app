@@ -1,0 +1,170 @@
+[
+  {
+    "customerId": "C001",
+    "transactionId": "T001",
+    "amount": 120,
+    "date": "2025-03-15"
+  },
+  {
+    "customerId": "C001",
+    "transactionId": "T002",
+    "amount": 95,
+    "date": "2025-04-12"
+  },
+  {
+    "customerId": "C002",
+    "transactionId": "T003",
+    "amount": 45,
+    "date": "2025-03-08"
+  },
+  {
+    "customerId": "C003",
+    "transactionId": "T004",
+    "amount": 155,
+    "date": "2025-01-25"
+  },
+  {
+    "customerId": "C004",
+    "transactionId": "T005",
+    "amount": 65,
+    "date": "2025-02-10"
+  },
+  {
+    "customerId": "C005",
+    "transactionId": "T006",
+    "amount": 80,
+    "date": "2025-03-17"
+  },
+  {
+    "customerId": "C006",
+    "transactionId": "T007",
+    "amount": 101,
+    "date": "2025-01-11"
+  },
+  {
+    "customerId": "C007",
+    "transactionId": "T008",
+    "amount": 110,
+    "date": "2025-02-21"
+  },
+  {
+    "customerId": "C008",
+    "transactionId": "T009",
+    "amount": 130,
+    "date": "2025-03-30"
+  },
+  {
+    "customerId": "C009",
+    "transactionId": "T010",
+    "amount": 40,
+    "date": "2025-01-18"
+  },
+  {
+    "customerId": "C010",
+    "transactionId": "T011",
+    "amount": 200,
+    "date": "2025-02-08"
+  },
+  {
+    "customerId": "C011",
+    "transactionId": "T012",
+    "amount": 75,
+    "date": "2025-03-03"
+  },
+  {
+    "customerId": "C012",
+    "transactionId": "T013",
+    "amount": 98,
+    "date": "2025-01-29"
+  },
+  {
+    "customerId": "C013",
+    "transactionId": "T014",
+    "amount": 115,
+    "date": "2025-02-25"
+  },
+  {
+    "customerId": "C014",
+    "transactionId": "T015",
+    "amount": 89,
+    "date": "2025-03-19"
+  },
+  {
+    "customerId": "C015",
+    "transactionId": "T016",
+    "amount": 102,
+    "date": "2025-03-19"
+  },
+  {
+    "customerId": "C001",
+    "transactionId": "T017",
+    "amount": 65,
+    "date": "2025-01-12"
+  },
+  {
+    "customerId": "C002",
+    "transactionId": "T018",
+    "amount": 89,
+    "date": "2025-04-08"
+  },
+  {
+    "customerId": "C002",
+    "transactionId": "T019",
+    "amount": 145,
+    "date": "2025-05-11"
+  },
+  {
+    "customerId": "C002",
+    "transactionId": "T020",
+    "amount": 35,
+    "date": "2025-03-24"
+  },
+  {
+    "customerId": "C002",
+    "transactionId": "T021",
+    "amount": 180,
+    "date": "2025-04-20"
+  },
+  {
+    "customerId": "C002",
+    "transactionId": "T022",
+    "amount": 200,
+    "date": "2025-05-08"
+  },
+  {
+    "customerId": "C002",
+    "transactionId": "T023",
+    "amount": 109,
+    "date": "2025-04-12"
+  },
+  {
+    "customerId": "C016",
+    "transactionId": "T024",
+    "amount": 108,
+    "date": "2025-04-13"
+  },
+  {
+    "customerId": "C017",
+    "transactionId": "T025",
+    "amount": 110,
+    "date": "2025-04-14"
+  },
+  {
+    "customerId": "C018",
+    "transactionId": "T026",
+    "amount": 111,
+    "date": "2025-04-15"
+  },
+  {
+    "customerId": "C019",
+    "transactionId": "T027",
+    "amount": 112,
+    "date": "2025-04-16"
+  },
+  {
+    "customerId": "C020",
+    "transactionId": "T028",
+    "amount": 113,
+    "date": "2025-04-17"
+  }
+]
