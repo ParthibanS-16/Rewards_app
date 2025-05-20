@@ -25,7 +25,7 @@ src/
 ├── api/               # Simulated async API
 ├── components/        # UI Components
 ├── constants/         # Month & Year filters
-├── utils/             # Reward logic, logger, tests
+├── utils/             # Reward logic
 ├── App.js             # Main app logic
 public/
 └── transactions.json  # Mock dataset (15 customers)
@@ -58,7 +58,9 @@ npm test
 ![Rewards Screenshot]
 
 ### ✅ Test Passed
-![Tests Screenshot](screenshots/tests.png)
+![Tests Screenshot]
+![image](https://github.com/user-attachments/assets/2caafff0-5824-4352-aa0f-fb1d17bdf028)
+
 
 ---
 
