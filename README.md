@@ -52,7 +52,7 @@ npm test
 ```
 
 
-### 3. Node Version
+### 4. Node Version
 ```bash
 Node v22.15.1 (LTS)
 ```
